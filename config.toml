@@ -12,10 +12,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "violet"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2023 leonardonels"
   sidebarAbout = [
-    "test linea 1",
-    "test linea 2"
+    "A portfolio for sharing my works.",
+    #"fotos, videos and 3D models."
   ]
 
   # Contact page
@@ -48,12 +48,12 @@ email = "leo.nels.2000@gmail.com"
   home = true
 
   [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  name = "Blender"
+  url = "contact/"
 
   [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  name = "About"
+  url = "about/"
 
   [params.social]
   facebook      = "full page or profile url in facebook"
