@@ -49,8 +49,12 @@ email = "leo.nels.2000@gmail.com"
 
   [[params.navlinks]]
   name = "Blender"
-  url = "contact/"
+  url = "blender/"
 
+  [[params.navlinks]]
+  name = "CodeSpeedRun"
+  url = "codespeedrun/"
+  
   [[params.navlinks]]
   name = "About"
   url = "about/"
