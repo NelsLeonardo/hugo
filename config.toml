@@ -43,31 +43,31 @@ email = "leo.nels.2000@gmail.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "home"
   url = "portfolio/"
   home = true
 
   [[params.navlinks]]
-  name = "Blender"
+  name = "blender"
   url = "blender/"
 
   [[params.navlinks]]
-  name = "CodeSpeedRun"
-  url = "codespeedrun/"
+  name = "coderunner"
+  url = "coderunner/"
   
   [[params.navlinks]]
-  name = "About"
+  name = "about"
   url = "about/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
+  github        = "https://github.com/leonardonels27"
+  #facebook      = "full page or profile url in facebook"
+  #googleplus    = "full profile url in googleplus"
+  email         = "leo.nels.2000@gmail.com"
+  #twitter       = "full profile url in twitter"
   linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
+  #stackoverflow = "full profile url in stackoverflow"
   instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  gitlab        = "full profile url in gitlab"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  #gitlab        = "full profile url in gitlab"
+  youtube       = "https://www.youtube.com/@goldenmatrix"
+  #whatsapp      = "wa.me service link"
