@@ -4,5 +4,5 @@ showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "finalfantasy diorama"
 draft = false
-weight = 1
+weight = 999999
 +++
