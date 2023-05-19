@@ -1,4 +1,5 @@
-#Project END OF LIFE
+# Project status: END OF LIFE
+
 # Creative portfolio theme for hugo
 
 [![Build Status](https://travis-ci.org/kishaningithub/hugo-creative-portfolio-theme.svg?branch=master)](https://travis-ci.org/kishaningithub/hugo-creative-portfolio-theme)
